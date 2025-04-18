@@ -42,7 +42,7 @@ const projects = [
         link: "https://github.com/yourusername/variational-autoencoder",
         media: {
             type: "image",
-            url: "./data/flowmatching_9.gif" 
+            url: "./data/vae-coco-color.png" 
         }
     },
     {
@@ -52,7 +52,7 @@ const projects = [
         link: "https://github.com/yourusername/flow-matching",
         media: {
             type: "gif",
-            url: "./data/vae-coco-color.png"
+            url: "./data/flowmatching_9.gif"
         }
     },
     {
